@@ -1,0 +1,53 @@
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\bin\Debug\FirePlatform.exe
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\bin\Debug\FirePlatform.pdb
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\FirePlatform.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.read.8.tlog
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.write.7.tlog
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.write.8.tlog
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\FirePlatform.exe.licenses
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\FirePlatform.exe
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\FirePlatform.pdb
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.Form1.resources
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.AddSatellite.resources
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.DownLoad.resources
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\FirePlatform.ProgressForm.resources
+C:\Users\Administrator\Desktop\FirePlatform\FirePlatform\obj\Debug\FirePlatform.SkinForm.resources
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\FirePlatform.exe
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\FirePlatform.pdb
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\bin\Debug\FirePlatform.exe
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\bin\Debug\FirePlatform.pdb
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.Form1.resources
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.AddSatellite.resources
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.DownLoad.resources
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\FirePlatform.ProgressForm.resources
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\FirePlatform.Properties.Resources.resources
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\FirePlatform.SkinForm.resources
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.read.8.tlog
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.write.7.tlog
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.write.8.tlog
+C:\Users\Administrator\Documents\My RTX Files\5703\FirePlatform\FirePlatform\obj\Debug\FirePlatform.exe.licenses
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\FirePlatform.exe
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\FirePlatform.pdb
+E:\program\ARCGIS\FirePlatform\FirePlatform\bin\Debug\FirePlatform.exe
+E:\program\ARCGIS\FirePlatform\FirePlatform\bin\Debug\FirePlatform.pdb
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\ResolveAssemblyReference.cache
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.Form1.resources
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.AddSatellite.resources
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\WindowsFormsFirePlatform.DownLoad.resources
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\FirePlatform.ProgressForm.resources
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\FirePlatform.Properties.Resources.resources
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\FirePlatform.SkinForm.resources
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.read.7.tlog
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\program\ARCGIS\FirePlatform\FirePlatform\obj\Debug\FirePlatform.exe.licenses
