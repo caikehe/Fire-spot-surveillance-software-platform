@@ -1,0 +1,1 @@
+This is a platform created to supervise the fire spot in the forests. The input is a remote sensing image. The algorithm in the platform can detect the fire spot automatically. This software platform is written in C# language, and with the DevExpress UI engine, it has a beautiful and convenient interface.
